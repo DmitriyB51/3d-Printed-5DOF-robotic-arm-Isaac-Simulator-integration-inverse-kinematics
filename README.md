@@ -36,7 +36,7 @@ Key Features
 ├── images/      # Images for README
 ├── media/       # GIFs / videos
 └── README.md
-
+```
 
 
 
