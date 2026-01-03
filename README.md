@@ -3,8 +3,9 @@ A 3D-printed 5-DOF robotic manipulator designed, built, and simulated from scrat
 
 
 <p align="center">
-  <img src="images/arm.png" width="600">
+  <img src="images/arm.jpg" width="600">
 </p>
+
 
 
 
