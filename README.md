@@ -3,14 +3,14 @@ A 3D-printed 5-DOF robotic manipulator designed, built, and simulated from scrat
 
 Key Features
 
-Fully 3D-printed 5-DOF robotic arm
+1) Build on ESP32 and MG996R servos
 
-Designed in Fusion 360
+2) Designed in Fusion 360
 
-Inverse Kinematics implementation (Python)
+3) Inverse Kinematics implementation (Python ikpy library, ROS2)
 
-URDF model for simulation
+4) URDF model for simulation
 
-Integrated with Isaac Sim for realistic physics and motion testing
+5) Integrated with Isaac Sim for realistic physics and motion testing
 
-Digital twin: same kinematics for simulation and real hardware
+6) Digital twin: same kinematics for simulation and real hardware
