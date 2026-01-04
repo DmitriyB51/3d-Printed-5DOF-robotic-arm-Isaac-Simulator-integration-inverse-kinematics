@@ -38,6 +38,7 @@ A 3D-printed 5-DOF robotic manipulator designed, built, and simulated from scrat
 
 ## Project Structure
 ```text
+├── 0-docs/      # Documentation
 ├── urdf/        # Robot description files
 ├── src/         # Inverse kinematics & control scripts
 ├── images/      # Images for README
