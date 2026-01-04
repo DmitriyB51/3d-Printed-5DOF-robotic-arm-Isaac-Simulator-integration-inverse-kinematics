@@ -69,8 +69,9 @@ The same kinematic model is used for both simulation and real hardware, enabling
 
 
 ## Demo
-- Isaac Sim motion testing  
-- Inverse kinematics reachability validation  
+- Isaac Sim + Inverse Kinematics 
+
+- Digital twin  
 
 *(Demo video / GIF will be added soon)*
 
