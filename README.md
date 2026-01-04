@@ -26,12 +26,10 @@ A 3D-printed 5-DOF robotic manipulator designed, built, and simulated from scrat
 
 ## Quick Links
 - [Fusion360](0-docs/Fusion360.md)
+- [Isaac-Sumulator](0-docs/Isaac-Simulator.md)
 - [Key Features](#key-features)
-- [Project Structure](#project-structure)
-- [Inverse Kinematics](#inverse-kinematics)
-- [Simulation & Digital Twin](#simulation--digital-twin)
 - [Demo](#demo)
-- [Documentation](#documentation)
+
 
 
 
