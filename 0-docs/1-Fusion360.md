@@ -5,7 +5,7 @@ The 5-DOF robotic arm was fully designed and assembled in **Autodesk Fusion 360*
 
 **Fusion 360 CAD Model:** [Download robo-arm.f3d](../STEP/robo-arm.f3d) - Complete 3D assembly file with all components and joints.
 
-**URDF Robot Description:** [View Untitled.urdf](../urdf/urdf/Untitled.urdf) - Robot description file exported from Fusion 360 for simulation.
+**URDF Robot Description:** [View URDF](../urdf/urdf/Untitled.urdf) - Robot description file exported from Fusion 360 for simulation.
 
 <p align="center">
   <img src="../images/fus1.png" width="600">
