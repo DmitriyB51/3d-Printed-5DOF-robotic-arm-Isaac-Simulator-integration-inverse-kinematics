@@ -71,8 +71,16 @@ The same kinematic model is used for both simulation and real hardware, enabling
 ## Demo
 - Isaac Sim + Inverse Kinematics 
 
+<p align="center">
+  <img src="media/IK.gif" width="600">
+</p>
+
 - Digital twin  
 
-*(Demo video / GIF will be added soon)*
+<p align="center">
+  <img src="media/twin.gif" width="600">
+</p>  
+
+
 
 
