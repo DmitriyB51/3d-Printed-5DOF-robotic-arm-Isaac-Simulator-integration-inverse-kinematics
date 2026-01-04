@@ -9,7 +9,7 @@ A 3D-printed 5-DOF robotic manipulator designed, built, and simulated from scrat
 
 
 
-Key Features
+## Key Features
 
 1) Fully 3D printed
 
@@ -26,6 +26,13 @@ Key Features
 
 
 
+## Technical Stack
+- Python
+- NVIDIA Isaac Sim
+- URDF
+- IKPy
+- Fusion 360
+- ESP32, MG996R
 
 
 
