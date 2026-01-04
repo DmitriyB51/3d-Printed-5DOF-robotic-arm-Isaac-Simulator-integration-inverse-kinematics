@@ -72,13 +72,13 @@ The same kinematic model is used for both simulation and real hardware, enabling
 - Isaac Sim + Inverse Kinematics 
 
 <p align="center">
-  <img src="media/IK.gif" width="600">
+  <img src="https://github.com/DmitriyB51/3d-Printed-5DOF-robotic-arm-Isaac-Simulator-integration-inverse-kinematics/raw/main/media/IK.gif" width="600">
 </p>
 
 - Digital twin  
 
 <p align="center">
-  <img src="media/twin.gif" width="600">
+  <img src="https://github.com/DmitriyB51/3d-Printed-5DOF-robotic-arm-Isaac-Simulator-integration-inverse-kinematics/raw/main/media/twin.gif" width="600">
 </p>  
 
 
