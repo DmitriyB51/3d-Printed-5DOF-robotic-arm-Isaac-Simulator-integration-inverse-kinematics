@@ -24,6 +24,17 @@ A 3D-printed 5-DOF robotic manipulator designed, built, and simulated from scrat
 6) Digital twin: same kinematics for simulation and real hardware
 
 
+## Quick Links
+- [Fusion360](#Fusion360)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Inverse Kinematics](#inverse-kinematics)
+- [Simulation & Digital Twin](#simulation--digital-twin)
+- [Demo](#demo)
+- [Documentation](#documentation)
+
+
+
 ## Demo
 - Isaac Sim + Inverse Kinematics 
 
