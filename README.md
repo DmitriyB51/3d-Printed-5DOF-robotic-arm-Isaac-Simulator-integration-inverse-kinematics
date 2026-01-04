@@ -24,6 +24,21 @@ A 3D-printed 5-DOF robotic manipulator designed, built, and simulated from scrat
 6) Digital twin: same kinematics for simulation and real hardware
 
 
+## Demo
+- Isaac Sim + Inverse Kinematics 
+
+<p align="center">
+  <img src="https://github.com/DmitriyB51/3d-Printed-5DOF-robotic-arm-Isaac-Simulator-integration-inverse-kinematics/raw/main/media/IK.gif" width="600">
+</p>
+
+- Digital twin  
+
+<p align="center">
+  <img src="https://github.com/DmitriyB51/3d-Printed-5DOF-robotic-arm-Isaac-Simulator-integration-inverse-kinematics/raw/main/media/twin.gif" width="600">
+</p>  
+
+
+
 
 
 ## Technical Stack
@@ -68,18 +83,6 @@ The same kinematic model is used for both simulation and real hardware, enabling
 
 
 
-## Demo
-- Isaac Sim + Inverse Kinematics 
-
-<p align="center">
-  <img src="https://github.com/DmitriyB51/3d-Printed-5DOF-robotic-arm-Isaac-Simulator-integration-inverse-kinematics/raw/main/media/IK.gif" width="600">
-</p>
-
-- Digital twin  
-
-<p align="center">
-  <img src="https://github.com/DmitriyB51/3d-Printed-5DOF-robotic-arm-Isaac-Simulator-integration-inverse-kinematics/raw/main/media/twin.gif" width="600">
-</p>  
 
 
 
