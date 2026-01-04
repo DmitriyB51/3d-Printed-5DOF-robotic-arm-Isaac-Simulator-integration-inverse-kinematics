@@ -25,7 +25,7 @@ A 3D-printed 5-DOF robotic manipulator designed, built, and simulated from scrat
 
 
 ## Quick Links
-- [Fusion360](#Fusion360)
+- [Fusion360](0-docs/Fusion360.md)
 - [Key Features](#key-features)
 - [Project Structure](#project-structure)
 - [Inverse Kinematics](#inverse-kinematics)
