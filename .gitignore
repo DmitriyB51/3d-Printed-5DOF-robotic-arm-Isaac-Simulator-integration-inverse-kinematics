@@ -27,3 +27,6 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Large media files (exceed GitHub 100MB limit)
+media/twin.gif
+
